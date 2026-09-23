@@ -1,0 +1,33 @@
+Local compilation/test check
+
+07-move-zeroes.c: PASS
+Test 1: [1,3,12,0,0]
+Test 2: [0]
+
+06-binary-search.c: PASS
+Test 1: 4
+Test 2: -1
+
+08-valid-parentheses.c: PASS
+Test 1: true
+Test 2: false
+
+05-longest-common-prefix.c: PASS
+Test 1: fl
+Test 2:
+
+03-valid-anagram.c: PASS
+Test 1: true
+Test 2: false
+
+04-best-time-to-buy-and-sell-stock.c: PASS
+Test 1: 5
+Test 2: 0
+
+02-reverse-a-string.c: PASS
+Test 1: olleh
+Test 2: a
+
+01-two-sum.c: PASS
+Test 1: [0,1]
+Test 2: [0,1]
