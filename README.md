@@ -3,7 +3,7 @@
 **Name:** Manoj H  
 **Roll Number:** R25EJ070
 
-Personal LeetCode practice log — part of B25GE0101 portfolio.
+Personal LeetCode practice log — part R25EJ070 portfolio.
 
 ## Table of Contents
 - [Arrays & Strings](arrays-strings/)
